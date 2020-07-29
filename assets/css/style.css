@@ -3012,7 +3012,7 @@ p {
   background-color: #253372;
   border-radius: 8px;
   padding: 24px 35px;
-  height: 160px;
+  height: 143px;
 }
 
 @media (max-width: 767px) {
@@ -3087,7 +3087,7 @@ p {
 
 .contact-map .gmap_canvas iframe {
   width: 100%;
-  height: 400px;
+  height: 528px;
 }
 
 .form-group {
